@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1364" height="668" viewBox="0 0 1364 668">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="1364" height="668" rx="20" transform="translate(278 905)" fill="#7f60f8"/>
+    </clipPath>
+    <filter id="Rectangle_7" x="735" y="146" width="550" height="396" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-278 -945)">
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(0 40)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="1364" height="668" rx="20" transform="translate(278 905)" fill="#7f60f8"/>
+      <path id="Path_1" data-name="Path 1" d="M1591.337,902.1s-209.083,331.3-1160.776,598.157S288.408,902.1,288.408,902.1l695.47-115.131Z" transform="translate(-90.105 -458.493) rotate(8)" fill="#f50084"/>
+      <path id="Path_2" data-name="Path 2" d="M1591.337,902.1s-209.083,331.3-1160.776,598.157S288.408,902.1,288.408,902.1l695.47-115.131Z" transform="translate(1991.83 2942.14) rotate(-169)" fill="#6d4bf0"/>
+    </g>
+    <text id="Get_new_followers_faster_than_ever_before" data-name="Get new followers faster 
+than ever before" transform="translate(344 1167)" fill="#fff" font-size="40" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Get new followers faster </tspan><tspan x="0" y="55">than ever before</tspan></text>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Nunc_in_tempor_mi._Praesent_mi_ipsum_ullamcorper_iaculis_lectus_sit_amet." data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc in tempor mi. Praesent mi ipsum, ullamcorper iaculis lectus sit amet." transform="translate(344 1254)" fill="#fff" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="17">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan><tspan x="0" y="39">elit. Nunc in tempor mi. Praesent mi ipsum, </tspan><tspan x="0" y="61">ullamcorper iaculis lectus sit amet.</tspan></text>
+    <g id="card">
+      <g transform="matrix(1, 0, 0, 1, 278, 945)" filter="url(#Rectangle_7)">
+        <rect id="Rectangle_7-2" data-name="Rectangle 7" width="520" height="366" rx="20" transform="translate(750 151)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="30" height="159" rx="15" transform="translate(1076 1233)" fill="#e6e6e6"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="30" height="113" rx="15" transform="translate(1141 1279)" fill="#e6e6e6"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="30" height="168" rx="15" transform="translate(1210 1222)" fill="#e6e6e6"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="30" height="168" rx="15" transform="translate(1276 1222)" fill="#e6e6e6"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="30" height="157" rx="15" transform="translate(1340 1233)" fill="#e6e6e6"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="30" height="177" rx="15" transform="translate(1405 1213)" fill="#e6e6e6"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="30" height="197" rx="15" transform="translate(1471 1193)" fill="#f51084"/>
+      <text id="Social_gaining" data-name="Social gaining" transform="translate(1075 1161)" fill="#141e1e" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Social gaining</tspan></text>
+      <text id="Last_7_days" data-name="Last 7 days" transform="translate(1075 1182)" fill="#a0a0a0" font-size="14" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="0">Last 7 days</tspan></text>
+      <text id="Mo" transform="translate(1075 1416)" fill="#141e1e" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Mo</tspan></text>
+      <text id="Tu" transform="translate(1144 1416)" fill="#141e1e" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Tu</tspan></text>
+      <text id="Wd" transform="translate(1209 1416)" fill="#141e1e" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Wd</tspan></text>
+      <text id="Th" transform="translate(1279 1416)" fill="#141e1e" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Th</tspan></text>
+      <text id="Fr" transform="translate(1345 1416)" fill="#141e1e" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Fr</tspan></text>
+      <text id="Sa" transform="translate(1409 1416)" fill="#141e1e" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Sa</tspan></text>
+      <text id="Su" transform="translate(1474 1416)" fill="#141e1e" font-size="20" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">Su</tspan></text>
+    </g>
+    <text id="_Phasellus_porta_semper_leo_eu_porta._Duis_dictum_tincidunt_sodales._Praesent_fringilla_ex_vel_arcu_lobortis_pharetra_vitae_sed_dolor._Morbi_dignissim_urna_non_justo_sollicitudin_sit_amet_interdum_lorem_accumsan." data-name=" Phasellus porta semper leo eu porta. Duis dictum tincidunt sodales. Praesent fringilla ex vel arcu lobortis pharetra vitae sed dolor. Morbi dignissim urna non justo sollicitudin, sit amet interdum lorem accumsan." transform="translate(344 1340)" fill="#fff" font-size="16" font-family="OpenSans-SemiBold, Open Sans" font-weight="600"><tspan x="0" y="17" xml:space="preserve"> Phasellus porta semper leo eu porta. Duis dictum </tspan><tspan x="0" y="39">tincidunt sodales. Praesent fringilla ex vel arcu </tspan><tspan x="0" y="61">lobortis pharetra vitae sed dolor. Morbi dignissim </tspan><tspan x="0" y="83">urna non justo sollicitudin, sit amet interdum </tspan><tspan x="0" y="105">lorem accumsan.</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap");
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth; }
+
+body {
+  font-size: 1.6rem;
+  color: #141E1E;
+  font-family: 'Open Sans', sans-serif; }
+
+a {
+  text-decoration: none; }
+
+ul {
+  list-style: none; }
+
+section {
+  margin: 2rem 0; }
+
+.container {
+  width: 100%;
+  max-width: 122rem;
+  margin: 0 auto;
+  padding: 1rem 0; }
+
+.title {
+  font-size: 2.2rem;
+  font-weight: 700; }
+
+.desc {
+  font-weight: 600; }
+
+.btn {
+  color: white;
+  background-color: #7A66F8;
+  font-weight: 600;
+  font-size: 1.6rem;
+  padding: 1rem 3rem;
+  border-radius: 20px; }
+  .btn:hover {
+    background-color: #6e5ce6;
+    color: #fff; }
+
+.navbar .navbar-brand i {
+  font-size: 2.8rem;
+  color: #7A66F8;
+  margin-right: 1rem; }
+
+.navbar .navbar-brand h2 {
+  display: inline;
+  font-weight: 800; }
+
+.navbar .navbar-nav {
+  font-weight: 600; }
+
+.table__content {
+  background-color: #7A66F8;
+  padding: 5rem 2rem;
+  color: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative; }
+  .table__content .red {
+    position: absolute;
+    left: -5rem;
+    bottom: -50rem;
+    z-index: 1; }
+  .table__content .blue {
+    position: absolute;
+    left: -140rem;
+    top: -60rem;
+    z-index: 1; }
+
+.table__text {
+  position: relative;
+  margin-bottom: 5rem;
+  z-index: 1000; }
+
+.table__img {
+  position: relative;
+  z-index: 1000; }
+
+.cards__card {
+  text-align: center;
+  margin: 2rem 0; }
+
+.cards__inner-card {
+  border-radius: 20px;
+  color: #fff;
+  text-align: center;
+  padding: 5rem 3rem;
+  position: relative;
+  overflow: hidden; }
+  .cards__inner-card .title {
+    position: relative;
+    z-index: 1; }
+  .cards__inner-card .desc {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    margin: 5rem 0; }
+  .cards__inner-card .btn {
+    background-color: #fff;
+    color: #141E1E; }
+  .cards__inner-card .ico {
+    position: absolute;
+    left: 0;
+    top: 0;
+    transform: scale(1.2) rotate(-20deg);
+    opacity: .05; }
+
+.cards__tiktok {
+  background-color: #FD3E3E; }
+
+.cards__instagram {
+  background-color: #C13584; }
+
+.cards__twitch {
+  background-color: #6441A4; }

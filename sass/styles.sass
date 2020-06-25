@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap')
+
+$black-color: #141E1E
+$primary-color: #7A66F8
+$primary-dark-color: #6e5ce6
+$default-round: 20px
+$tiktok-color: #FD3E3E
+$instagram-color: #C13584
+$twitch-color: #6441A4
+
+*, *::before, *::after
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+
+html
+    font-size: 62.5%
+    scroll-behavior: smooth
+
+body
+    font-size: 1.6rem
+    color: #141E1E
+    font-family: 'Open Sans', sans-serif
+
+a
+    text-decoration: none
+
+ul
+    list-style: none
+
+section
+    margin: 2rem 0
+
+.container
+    width: 100%
+    max-width: 122rem
+    margin: 0 auto
+    padding: 1rem 0
+
+.title
+    font-size: 2.2rem
+    font-weight: 700
+
+.desc
+    font-weight: 600
+
+.btn
+    color: white
+    background-color: $primary-color
+    font-weight: 600
+    font-size: 1.6rem
+    padding: 1rem 3rem
+    border-radius: 20px
+    &:hover
+        background-color: $primary-dark-color
+        color: #fff
+
+.navbar
+    // display: none
+    .navbar-brand
+        i
+            font-size: 2.8rem
+            color: $primary-color
+            margin-right: 1rem
+        h2
+            display: inline
+            font-weight: 800
+    .navbar-nav
+        font-weight: 600
+
+.about
+    .container
+    &__text
+    &__img
+
+.table
+    .container
+    &__content
+        background-color: $primary-color
+        padding: 5rem 2rem
+        color: #fff
+        border-radius: $default-round
+        overflow: hidden
+        position: relative
+        .red
+            position: absolute
+            left: -5rem
+            bottom: -50rem
+            z-index: 1
+        .blue
+            position: absolute
+            left: -140rem
+            top: -60rem
+            z-index: 1
+    &__text
+        position: relative
+        margin-bottom: 5rem
+        z-index: 1000
+    &__img
+        position: relative
+        z-index: 1000
+
+.cards
+    .container
+    &__content
+    &__card
+        text-align: center
+        margin: 2rem 0
+    &__inner-card
+        border-radius: $default-round
+        color: #fff
+        text-align: center
+        padding: 5rem 3rem
+        position: relative
+        overflow: hidden
+        .title
+            position: relative
+            z-index: 1
+        .desc
+            position: relative
+            z-index: 1
+            width: 100%
+            margin: 5rem 0
+        .btn
+            background-color: #fff
+            color: $black-color
+        .ico
+            position: absolute
+            left: 0
+            top: 0
+            transform: scale(1.2) rotate(-20deg)
+            opacity: .05
+    &__tiktok
+        background-color: $tiktok-color
+    &__instagram
+        background-color: $instagram-color
+    &__twitch
+        background-color: $twitch-color

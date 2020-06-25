@@ -1,0 +1,24 @@
+.nav-item {
+  margin: 0 2rem; }
+
+.title {
+  font-size: 3rem; }
+
+.desc {
+  width: 80%; }
+
+.about {
+  margin-top: 10rem; }
+
+.table__content .blue {
+  left: -140rem;
+  top: -40rem; }
+
+.table__content .red {
+  left: 70rem; }
+
+.table__text {
+  margin-bottom: 0; }
+
+.cards__card {
+  margin: initial; }

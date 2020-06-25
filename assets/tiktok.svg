@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="519" viewBox="0 0 400 519">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="400" height="519" rx="20" transform="translate(278 1731)" fill="#fd3e3e"/>
+    </clipPath>
+    <filter id="Rectangle_15" x="-15" y="-5" width="430" height="549" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect width="631.294" height="671.819" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(-278 -1731)" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 278, 1731)" filter="url(#Rectangle_15)">
+      <rect id="Rectangle_15-2" data-name="Rectangle 15" width="400" height="519" rx="20" fill="#fd3e3e"/>
+    </g>
+    <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(169.908 1649.345)" clip-path="url(#clip-path-2)">
+      <g transform="translate(-169.908 -1649.345)">
+        <path id="tiktok-brands" d="M474.574,222.365A222.524,222.524,0,0,1,344.52,180.786V370.11A172.195,172.195,0,1,1,195.969,199.483v95.224a79.048,79.048,0,1,0,55.329,75.4V0H344.52a128.372,128.372,0,0,0,1.97,23.485h0a129.43,129.43,0,0,0,57.109,84.98A128.635,128.635,0,0,0,474.575,129.8Z" transform="matrix(0.94, -0.342, 0.342, 0.94, 169.788, 1811.659)" fill="#fff" opacity="0.1"/>
+      </g>
+    </g>
+  </g>
+</svg>
